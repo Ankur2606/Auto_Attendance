@@ -21,6 +21,7 @@ if __name__ == '__main__':
     app.run()
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
+driver.maximize_window()
 
 divya_attendance = 'http://moodle.mitsgwalior.in/mod/attendance/view.php?id=81999'
 driver.get(divya_attendance)
