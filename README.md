@@ -10,5 +10,10 @@ The project automates the attendance process on Moodle by combining Selenium and
 <hr>
 
 # How to use it?
+<h4 type = bold>In Order to run this project on your setup or virtual environment Type the following on your python terminal :</h4>
+<code>pip install -r requirements.txt</code>
+<hr>
+<br>
+
 <ol type = 'I'>
 <li> Fill in the details </li>
